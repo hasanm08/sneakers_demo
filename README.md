@@ -17,6 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Demo Video
 
-https://github.com/user/sneakers_demo/assets/videos/Screen%20Recording%202025-06-06%20at%2012.09.10.mp4
+[https://github.com/user/sneakers_demo/assets/videos/Screen%20Recording%202025-06-06%20at%2012.09.10.mp4](https://github.com/hasanm08/sneakers_demo/blob/main/Screen%20Recording%202025-06-06%20at%2012.09.10.mp4)
 
 *Demo video showing the app's features and functionality*
