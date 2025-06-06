@@ -1,4 +1,4 @@
-# tour_leader
+# Sneakers_demo
 
 A new Flutter project.
 
